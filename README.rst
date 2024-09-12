@@ -15,16 +15,17 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Коррекция нелинейных искажений строк в рукописном документе
+    :Тип научной работы: M1P
+    :Автор: Смирнова Виктория Станиславовна
+    :Научный руководитель: д.т.н., профессор, Местецкий Леонид Моисеевич
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+В данной работе предложен метод коррекции нелинейных искажений строк на фотографиях рукописных документов, который учитывает различные виды деформаций, вызванных как внешними факторами, например, изгибы страниц или искажения от угла съёмки, так и особенностями почерка. В качестве исследуемого объекта выбраны  дневники Фёдора Петровича Литке,российского исследователя XIX века, представляющие историческую и культурную ценность. Предложенный метод направлен на улучшение процесса распознавания рукописных текстов, что способствует облегчению работы специалистов по расшифровке архивных документов.
+
+
 
 Research publications
 ===============================
