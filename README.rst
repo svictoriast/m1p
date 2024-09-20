@@ -29,7 +29,11 @@ Abstract
 
 Research publications
 ===============================
-1. 
+1. https://courses.cs.tau.ac.il/0368-4341/shared/Papers/Alignment/Louloud_1_2009.pdf
+2. https://core.ac.uk/download/pdf/225227157.pdf
+3. https://muthu.co/segmenting-lines-in-handwritten-documents-using-a-path-planning-algorithm/
+4. https://habr.com/ru/companies/contentai/articles/312570/
+5. https://github.com/KadenMc/PreprocessingHTR?tab=readme-ov-file
 
 Presentations at conferences on the topic of research
 ================================================
