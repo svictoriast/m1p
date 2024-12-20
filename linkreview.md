@@ -7,13 +7,8 @@
 |Text line segmentation in images of handwritten historical documents.|2008|A. Sánchez1, P.D. Suárez1, C.A.B.Mello2, A.L.I.Oliveira2, V.M.O.Alves.|[link](https://d1wqtxts1xzle7.cloudfront.net/87563133/ipta.2008.474375820220615-1-1aehhs1-libre.pdf?1655313433=&response-content-disposition=inline%3B+filename%3DText_Line_Segmentation_in_Images_of_Hand.pdf&Expires=1734724904&Signature=HOMnK8x7reNJJPWsiNaDDx2Rl6RJqAPRfEVlkezupOINdtzUUztbRR3dG0e0Yh~dBRGuBQm8gM4ukixHwUswkNBbEUj-yAlqqcBWBNEDuXUCNhOCPG3p5oVCtvb3qvdSpluJ3pW82wsZcceRR4W8OlcADLFcZnKVW3JwNH4SpOMtY9~YKUU-JM9uvmnvwnP~etI9wFmnnRiWThjleAVJ5DkEhRHqqBl49KMIOU9R-kcsGjpKW4biElJqr9cfL6WxVyKXaGlzZzm9xDVi-Gb2VJH-CL0g-33AiI-rIVNDfbmyiy7~xc44K39WwbSu1c9AauOq5cIV216dJ20ou0vZlg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)|-|
 |Handwritten text line segmentation by shredding text into its lines.|2009|Anguelos Nicolaou, Basilis Gatos|[link](https://ieeexplore.ieee.org/abstract/document/5277573)|-|
 |A New Scheme for Unconstrained Handwritten Text-line Segmentation.|2011|Alireza Alaei1, Umapada Pal2, P. Nagabhushan|[link](https://www.researchgate.net/profile/Alireza-Alaei/publication/220599927_A_new_scheme_for_unconstrained_handwritten_text-line_segmentation/links/59e83311aca272bc423d45e7/A-new-scheme-for-unconstrained-handwritten-text-line-segmentation.pdf)|-|
-
-|Handwritten arabic text line segmentation using affinity propagation.|2010|Jayant Kumar
-Wael Abd-Almageed Le Kang David Doermann|[link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5b31f762bad5bb44287d78a41e60ebd2264b03b4)|-|
-
+|Handwritten arabic text line segmentation using affinity propagation.|2010|Jayant Kumar, Wael Abd-Almageed, Le Kang, David Doermann|[link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5b31f762bad5bb44287d78a41e60ebd2264b03b4)|-|
 |Handwritten text line segmentation by clustering with distance metric learning.|2008|Fei Yin
 |[link](https://www.sciencedirect.com/science/article/abs/pii/S0031320308005293)|-|
-
-
-|Text Line Segmentation on Myanmar Handwritten Documents Using Directional Gaussian Filter.|2024|Nilar Phyo Wai; Nu War
+|Text Line Segmentation on Myanmar Handwritten Documents Using Directional Gaussian Filter.|2024|Nilar Phyo Wai, Nu War
 |[link](https://ieeexplore.ieee.org/abstract/document/10533060/authors#authors)|-|
